@@ -1,0 +1,13 @@
+* {margin: 0px; padding:0px;}
+
+
+html,body {height: 100%;} 
+
+@font-face {
+    font-family:stiloTitulo;
+    src: url(tipografias/Athena\ Rustic.ttf)
+}
+
+h1{
+    font-family:stiloTitulo;
+}
